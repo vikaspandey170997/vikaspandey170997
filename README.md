@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vikaspandey170997
-- 👀 I’m interested in Web Development Technology 
-- 🌱 I’m currently learning Full stack
-- 💞️ I’m looking to collaborate on Angular
+- Hi there 👋 , I am Vikas J Pandey.
+- 👀 I amm currently working on different Web Development Technology .
+- 🌱 I am currently learning Full stack Web Development. 
+- 💞️ I am looking forward  to collaborate on Angular projects.
 - 📫 How to reach me ...
 
 <!---
