@@ -30,8 +30,8 @@
 </p>
 
 ## My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=vaishak10&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishak10&theme=dark" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api?username=vikaspandey170997&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vikaspandey170997&theme=dark" width="45%" />
 
 ## My works
 1. Github User Search: 
