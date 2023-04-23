@@ -1,10 +1,11 @@
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />''
+ 
 - Hi there 👋 , I am Vikas J Pandey.
 - 👀 I amm currently working on different Web Development Technology .
 - 🌱 I am currently learning Full stack Web Development. 
 - 💞️ I am looking forward  to collaborate on Angular projects.
 - 📫 How to reach me ...
-
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
  
 ### Hi there 👋. I am Vikas JP and this is my profile
 
