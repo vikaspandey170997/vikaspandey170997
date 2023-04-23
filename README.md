@@ -1,5 +1,5 @@
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />''
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />''
  
 - Hi there 👋 , I am Vikas J Pandey.
 - 👀 I amm currently working on different Web Development Technology .
