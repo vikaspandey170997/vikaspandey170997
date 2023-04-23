@@ -4,6 +4,8 @@
 - 💞️ I am looking forward  to collaborate on Angular projects.
 - 📫 How to reach me ...
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+ 
 ### Hi there 👋. I am Vikas JP and this is my profile
 
 - I am currently working as a software developer.
@@ -36,7 +38,7 @@
 ## My works
 1. Github User Search: 
    [repository]()  |  [live site url]()                                                                                          
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="220" />
+
 ## Project Challenges                                                                                              
   <details>
   <summary>
