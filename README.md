@@ -4,7 +4,7 @@
 - Hi there 👋 , I am Vikas J Pandey.
 - 👀 I amm currently working on different Web Development Technology .
 - 🌱 I am currently learning Full stack Web Development. 
-- 💞️ I am looking forward  to collaborate on Angular projects.
+- 💞️ I am looking forward  to collaborate on ASP.NET Core and React  projects.
 - 📫 How to reach me ...
  
 ### Hi there 👋. I am Vikas JP and this is my profile
